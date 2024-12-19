@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDKW6xPci8HKDbV9DVy6f4FGhDk4UFltsc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>960179741760</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>cibertec.edu.pe.SkullCinema</string>
+	<key>PROJECT_ID</key>
+	<string>skullcinema-a7c95</string>
+	<key>STORAGE_BUCKET</key>
+	<string>skullcinema-a7c95.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:960179741760:ios:c37781b0665ad7abf0eba5</string>
+</dict>
+</plist>
